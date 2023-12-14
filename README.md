@@ -1,2 +1,3 @@
-# How-to-add-a-custom-background-to-the-polygon-shape-in-Blazor-Maps
-This article explains how to add a polygon shape in the Blazor Maps.
+# Example to add custom background to the polygon shape in the Syncfusion Blazor Maps component
+
+In this Blazor project, we created a sample to show how to add custom background to the polygon shape in the Blazor Maps.
